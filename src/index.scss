@@ -1,0 +1,10 @@
+$primary: green;
+$border-radius: 2rem;
+
+@import "bootstrap/scss/bootstrap";
+body {
+  background-color: blue;
+  button {
+    background-color: aquamarine;
+  }
+}
